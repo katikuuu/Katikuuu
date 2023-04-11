@@ -4,4 +4,12 @@ I am a senior software developer having more than 5 years of experience in full-
 
 [![Katikuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=katikuuu)](https://github.com/katikuuu/github-readme-stats)
 
+![Enock's GitHub stats](https://github-readme-stats.vercel.app/api?username=katikuuu&show_icons=true)
+![Enock's GitHub stats](https://github-readme-stats.vercel.app/api?username=katikuuu&count_private=true)
+
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katikuuu)](https://github.com/katikuuu/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katikuuu&langs_count=9)](https://github.com/katikuuu/github-readme-stats)
+
 
