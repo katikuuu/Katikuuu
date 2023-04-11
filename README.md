@@ -1,7 +1,7 @@
-### Hi there 👋
+Hi there 👋
 
 <!--
-**katikuuu/Katikuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**katikuuu/Katikuuu** I am a senior software developer having more than 10 years of experience in full-stack development. I already have experience working on a Saas platform, E-commerce, Dynamic website, One-pager, WordPress, architecting small to enterprise-level applications and Mobile application. I can create different test plans and test cases adapting to different kinds of projects.
 
 Here are some ideas to get you started:
 
