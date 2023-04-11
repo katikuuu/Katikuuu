@@ -1,10 +1,10 @@
 Hi there 👋
 
-I am a senior software developer having more than 5 years of experience in full-stack development. I already have experience working on a Saas platform, E-commerce, Dynamic website, One-pager, WordPress, architecting small to enterprise-level applications and Mobile application. I can create different test plans and test cases adapting to different kinds of projects.
+I am a senior software developer with over 5 years experience in Artificial Intelligence (AI), Robotics, system administration, web design, and network management. Proficient in vast programming languages and experienced in managing large-scale IT projects from project design to launch as a fill stack developer and more . 
+
 
 ![Enock's GitHub stats](https://github-readme-stats.vercel.app/api?username=katikuuu&count_private=true&show_icons=true&theme=dark)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katikuuu&langs_count=8)](https://github.com/katikuuu/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katikuuu&layout=compact)](https://github.com/katikuuu/github-readme-stats)
 
 
 
