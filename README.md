@@ -1,7 +1,7 @@
 Hi there 👋
 
 name: Full-year calendar
-uses: lowlighter/metrics@latest
+uses: katikuuu/metrics@latest
 with:
   filename: metrics.plugin.isocalendar.fullyear.svg
   token: ${{ secrets.METRICS_TOKEN }}
