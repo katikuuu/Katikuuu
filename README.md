@@ -2,6 +2,8 @@ Hi there 👋
 
 I'm Enock, a Senior Software Developer with over 5 years as a full-stack developer and experienced in Artificial Intelligence (AI), Machine Learning , Robotics , IOT, 3D printing , CAD , Database design , Desktop applications and web design , Mobile app development and many more. Proficient in vast programming languages and highly experienced in managing large-scale IT projects from project design and developent  to launch.
 
+## Github Sreaks
+
 [![Enock's GitHub Streak](https://streak-stats.demolab.com/?user=katikuuu&theme=highcontrast&layout=compact)](https://git.io/streak-stats)
 
 ## Languages and Tools
@@ -18,7 +20,12 @@ I'm Enock, a Senior Software Developer with over 5 years as a full-stack develop
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
 <img width=50px src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">&nbsp;
    <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
+<<<<<<< HEAD
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
+  <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp; 
+=======
   <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
+>>>>>>> a4785a4183dfc9c6b460fc783517c8c886d2a317
 </div>
 
 </br>
