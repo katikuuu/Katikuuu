@@ -7,9 +7,10 @@ I'm Enock, a Senior Software Developer with over 5 years as a full-stack develop
 
 ## Languages and Tools:
 <div>
-      <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
+      <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp; 
+       <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">&nbsp;
+
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">&nbsp;
 <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
    <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png">&nbsp;
