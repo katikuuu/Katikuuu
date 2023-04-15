@@ -22,7 +22,7 @@ I'm Enock, a Senior Software Developer with over 5 years as a full-stack develop
    <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
   <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp; 
-        <img width=50px src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgbin.com%2Fpng%2F9iVfuMJq%2Fandroid-studio-mobile-app-development-png&psig=AOvVaw2dfYSo28j5tQRSiaUE1kdX&ust=1681637303189000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPij8aLJq_4CFQAAAAAdAAAAABAE](https://img.icons8.com/color/256/android-studio--v2.png)">&nbsp; 
+        <img width=50px src="https://img.icons8.com/color/256/android-studio--v2.png">&nbsp;
      
 </div> 
 
