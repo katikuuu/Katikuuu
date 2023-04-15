@@ -23,8 +23,8 @@ I'm Enock, a Robotics geek and a Senior Software Developer with over 5 years as 
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
   <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp; 
   <img width=50px src="https://img.icons8.com/color/256/android-studio--v2.png">&nbsp;
-      <img width=50px src="https://img.icons8.com/color/256/git.png">&nbsp;
-            <"https://download.logo.wine/logo/Raspberry_Pi/Raspberry_Pi-Logo.wine.png">&nbsp;
+  <img width=50px src="https://img.icons8.com/color/256/git.png">&nbsp;
+  <src="https://download.logo.wine/logo/Raspberry_Pi/Raspberry_Pi-Logo.wine.png">&nbsp;
 
       
      
