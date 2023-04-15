@@ -4,7 +4,7 @@ I'm Enock, a Senior Software Developer with over 5 years as a full-stack develop
 
 ## Github Streak
 
-[![Enock's GitHub Streak](https://streak-stats.demolab.com/?user=katikuuu&theme=highcontrast&layout=compact)](https://git.io/streak-stats)
+[![Enock's GitHub Streak](https://streak-stats.demolab.com/?user=katikuuu&theme=highcontrast&layout=compact&count_private=true)](https://git.io/streak-stats)
 
 ## Languages and Tools
 
