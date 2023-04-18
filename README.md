@@ -25,10 +25,14 @@ I'm Enock, a Robotics geek and a Senior Software Developer with over 5 years as 
   <img width=50px src="https://img.icons8.com/color/256/android-studio--v2.png">&nbsp;
   <img width=50px src="https://img.icons8.com/color/256/git.png">&nbsp;
   <img width=75px src="https://download.logo.wine/logo/Raspberry_Pi/Raspberry_Pi-Logo.wine.png">&nbsp;
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="react" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="50" height="50" />
 
-      
-     
-     
 </div> 
 
 </br>
