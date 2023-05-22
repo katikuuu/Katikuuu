@@ -32,8 +32,7 @@ I'm Enock, a Robotics geek and a Senior Software Developer with over 5 years as 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="50" height="50" /> 
       
-
-      <img src="![png-transparent-ruby-on-rails-the-ruby-programming-language-computer-programming-ruby-angle-computer-programming-ruby](https://github.com/katikuuu/Katikuuu/assets/67112632/b8e8ad43-316a-4e7d-85ef-4a378ea02ecd)" alt="aws" width="50" height="50" />
+      <img src="![png-transparent-ruby-on-rails-the-ruby-programming-language-computer-programming-ruby-angle-computer-programming-ruby]" alt="ruby" width="50" height="50" />
 
 </div> 
 
