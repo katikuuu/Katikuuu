@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm Enock, a Robotics geek and a Senior Software Developer with over 5 years as a full-stack developer and experienced in Artificial Intelligence (AI), Machine Learning , Robotics , IOT , Cyber Security , 3D printing , CAD , Database design , Desktop applications and web design , Mobile app development and many more. Proficient in vast programming languages and highly experienced in managing large-scale IT projects from project design and developent  to launch. <br> 
 My Repos are private ... I'll do some open-source soon tho
-<br>Send me an email  or DM me on instagram for a COLAB or consultation  
+<br>Send me an email  or DM me on my socials for a COLAB or consultation  
 
 ## Github Streak
 
