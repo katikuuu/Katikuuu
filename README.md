@@ -3,6 +3,12 @@ Hi there 👋
 I'm Enock, a Robotics geek and a Senior Software Developer with over 5 years as a full-stack developer and experienced in Artificial Intelligence (AI), Machine Learning , Robotics , IOT , Cyber Security , 3D printing , CAD , Database design , Desktop applications and web design , Mobile app development and many more. Proficient in vast programming languages and highly experienced in managing large-scale IT projects from project design and developent  to launch. <br> 
 My Repos are private ... I'll do some open-source soon tho
 <br>Send me an email  or DM me on my socials for a COLAB or consultation  
+<p align="right">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <img src="https://komarev.com/ghpvc/?username=Dinarwanjiru&label=Profile%20views&color=0e75b6&style=flat" alt="Dinarwanjiru" />
+</p>
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
 
 ## Github Streak
 
