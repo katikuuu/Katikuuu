@@ -4,13 +4,14 @@ I'm Enock, a Robotics geek and a Senior Software Developer with over 5 years as 
 My Repos are private ... I'll do some open-source soon tho
 <br>Send me an email  or DM me on my socials for a COLAB or consultation  
 <p align="right">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  <img src="https://komarev.com/ghpvc/?username=Dinarwanjiru&label=Profile%20views&color=0e75b6&style=flat" alt="Dinarwanjiru" />
+  
+  <img src="https://komarev.com/ghpvc/?username=katikuuu&label=Profile%20views&color=0e75b6&style=flat" alt="katikuuu" />
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
 
-## Github Streak
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Github Streak <p align="right"> <img src="https://komarev.com/ghpvc/?username=katikuuu&label=Profile%20views&color=0e75b6&style=flat" alt="katikuuu" />
+</p>
 
 [![Enock's GitHub Streak](https://streak-stats.demolab.com/?user=katikuuu&theme=highcontrast&layout=compact&count_private=true)](https://git.io/streak-stats) 
 
